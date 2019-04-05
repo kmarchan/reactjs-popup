@@ -8,6 +8,7 @@ import PopupFuncStory from './PopupFunc';
 import PopupInputFocusStory from './PopupInputFocus';
 import DisabledTooltip from './DisabledTooltip';
 import ModalStory from './Modal';
+import ModalStyledStory from './ModalStyling';
 import Menu from './Menu';
 import ControlledModal from './ControlledModal';
 import ControlledTooltip from './ControlledTooltip';
@@ -74,6 +75,7 @@ export default [
     },
   },
   ModalStory,
+  ModalStyledStory,
   PopupFuncStory,
   PopupInputFocusStory,
   PopupElementStory,
